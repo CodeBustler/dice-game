@@ -1,3 +1,5 @@
-# dice-game
+# Dice Game
+By using HTML, CSS & JavaScript 
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-qnsbtj)
+## Live
+https://dice-game-codebustler.netlify.app/
